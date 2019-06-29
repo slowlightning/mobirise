@@ -55,9 +55,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "gdg",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -77,7 +77,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1238.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "Heavy Industrial Structures &nbsp; (Oil &amp; Gas, Chemicals &amp; Petrochemicals)",
                 "contentAlign": "center",
@@ -90,7 +90,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "Heavy Industrial Structures (Mining )",
                 "contentAlign": "center",
@@ -101,9 +101,9 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "Heavy Industrial Structures (Power Generation )",
                 "contentAlign": "center",
@@ -116,7 +116,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "Water and Wastewater Structures",
                 "contentAlign": "center",
@@ -129,7 +129,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1300.jpeg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "Highway Bridge Structures",
                 "contentAlign": "center",
@@ -142,7 +142,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1920.jpeg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "Railway Structures",
                 "contentAlign": "center",
@@ -153,9 +153,9 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "Telecommunication Structures",
                 "contentAlign": "center",
@@ -174,7 +174,8 @@
           "_anchor": "slider-d",
           "_styles": {
             "H1": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#fa911c"
             },
             "P": {
               "text-align": "center",
