@@ -139,7 +139,7 @@
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpeg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -310,7 +310,8 @@
               "color": "#faaf40"
             },
             ".mbr-section__col .mbr-header__text": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             }
           },
           "_anchor": "content4-8",
@@ -504,7 +505,7 @@
             "overlayColor": "#7c706b",
             "overlayOpacity": "0"
           },
-          "text1": "<p>&nbsp;<span style=\"line-height: 1.7em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><b>ADDRESS</b></p><p>Quezon City, National Capital Region, Philippines<br></p><p><br>\n<strong>CONTACT US</strong></p><p>\nEmail: 4lgdsc@gmail.com<br><br><br></p>",
+          "text1": "<p>&nbsp;<span style=\"line-height: 1.7em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><b>ADDRESS</b></p><p>National Capital Region, Philippines<br></p><p><br>\n<strong>CONTACT US</strong></p><p>\nEmail: 4lgdsc@gmail.com<br><br><br></p>",
           "text2": "<ul class=\"mbr-contacts__list\"><li><br></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1063,7 +1064,7 @@
             "overlayColor": "#7c706b",
             "overlayOpacity": "0"
           },
-          "text1": "<p>&nbsp;<span style=\"line-height: 1.7em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><b>ADDRESS</b></p><p>Quezon City, National Capital Region, Philippines<br></p><p><br>\n<strong>CONTACT US</strong></p><p>\nEmail: 4lgdsc@gmail.com<br><br><br></p>",
+          "text1": "<p>&nbsp;<span style=\"line-height: 1.7em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><b>ADDRESS</b></p><p>National Capital Region, Philippines<br></p><p><br>\n<strong>CONTACT US</strong></p><p>\nEmail: 4lgdsc@gmail.com<br><br><br></p>",
           "text2": "<ul class=\"mbr-contacts__list\"><li><br></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
