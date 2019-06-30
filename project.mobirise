@@ -118,7 +118,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Civil InfraStructures (Environmental)\n<div>&gt; Potabe Water</div>",
+                "title": "Civil InfraStructures (Environmental)\n<div>&gt; Potabe water supply and distribution</div>",
                 "contentAlign": "center",
                 "text": "Liquid-Containing Structures",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -131,7 +131,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Civil InfraStructures (Environmental)<br>&gt; Wastewater treatment<br>",
+                "title": "Civil InfraStructures (Environmental)<br>&gt; Wastewater collection and treatment<br>",
                 "contentAlign": "center",
                 "text": "Liquid-Containing Structures",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -405,7 +405,7 @@
             }
           },
           "title4": "Core Values",
-          "caption4": "4LG ethics are based on passion to our profession considering its significant role in the society, being accountable for our actions; and\ntreating client's satisfaction as our true accomplishment.<br>",
+          "caption4": "4LG ethics are based on passion and respect to our profession considering its significant role in the society, being accountable in our actions, and\ntreating client's satisfaction as our true accomplishment.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
