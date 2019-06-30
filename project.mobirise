@@ -79,12 +79,12 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Heavy Industrial Structures &nbsp; (Oil &amp; Gas, Chemicals &amp; Petrochemicals)",
+                "title": "Heavy Industrial Structures<br>&gt; Oil &amp; Gas (Downstream)<br>&gt; Petrochemicals<br>&gt; Chemicals<br><br><br>",
                 "contentAlign": "center",
                 "text": "Equipment Structures, Piperack Structures, Equipment Foundations, Utilities Structures/Foundations",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "overlay": true,
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
@@ -92,7 +92,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Heavy Industrial Structures (Mining )",
+                "title": "Heavy Industrial Structures<br>&gt; Mining",
                 "contentAlign": "center",
                 "text": "Equipment Structures, Conveyor Structures, Equipment Foundations, Utilities Structures/Foundations",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
@@ -105,7 +105,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Heavy Industrial Structures (Power Generation )",
+                "title": "Heavy Industrial Structures<br>&gt; Power Generation",
                 "contentAlign": "center",
                 "text": "Turbine-Generator Machine Foundations",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
@@ -113,12 +113,25 @@
                 "overlayOpacity": "0.3"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "Civil InfraStructures (Environmental)\n<div>&gt; Potabe Water</div>",
+                "contentAlign": "center",
+                "text": "Liquid-Containing Structures",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.5"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Water and Wastewater Structures",
+                "title": "Civil InfraStructures (Environmental)<br>&gt; Wastewater treatment<br>",
                 "contentAlign": "center",
                 "text": "Liquid-Containing Structures",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -131,7 +144,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Highway Bridge Structures",
+                "title": "Civil InfraStructures (Transportation)<br>&gt; Highway transportation<br>",
                 "contentAlign": "center",
                 "text": "Highway Bridge Structures, Culvert Structures, Retaining Wall Structures",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
@@ -144,7 +157,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Railway Structures",
+                "title": "Civil InfraStructures (Transportation)<br>&gt; Railway transportation<br>",
                 "contentAlign": "center",
                 "text": "Railway Bridge Structures, Stations, U-Shaped Retaining Walls",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
@@ -153,11 +166,11 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Telecommunication Structures",
+                "title": "Civil InfraStructures - Telecommunication<br>",
                 "contentAlign": "center",
                 "text": "Self-Supporting Tower Structure, Guyed Tower Structure",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
@@ -174,8 +187,9 @@
           "_anchor": "slider-d",
           "_styles": {
             "H1": {
-              "text-align": "center",
-              "color": "#fa911c"
+              "text-align": "left",
+              "color": "#fa911c",
+              "font-size": "24px"
             },
             "P": {
               "text-align": "center",
@@ -237,6 +251,9 @@
             },
             ".mbr-navbar__items a": {
               "font-size": "24px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "60px"
             }
           },
           "_name": "menu",
@@ -267,7 +284,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"mailto:4lgadmin@4lgdigitalstructures.net\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">4LG Structural Engineering</a>",
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"mailto:4lgadmin@4lgdigitalstructures.net\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">4LG</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#slider-d\">BUSINESS INDUSTRY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#content4-8\">ABOUT US</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#contacts3-10\">CONTACT US</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
@@ -388,7 +405,7 @@
             }
           },
           "title4": "Core Values",
-          "caption4": "4LG ethics relies on passion to our profession considering its significant role in the society, being accountable for our rep; and\ntreating every client's satisfaction as our true accomplishment.<br>",
+          "caption4": "4LG ethics relies on passion to our profession considering its significant role in the society, being accountable for our actions; and\ntreating every client's satisfaction as our true accomplishment.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -604,6 +621,9 @@
             },
             ".mbr-navbar__items a": {
               "font-size": "24px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "60px"
             }
           },
           "_name": "menu",
@@ -634,7 +654,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"mailto:4lgadmin@4lgdigitalstructures.net\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">4LG Structural Engineering</a>",
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"mailto:4lgadmin@4lgdigitalstructures.net\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">4LG</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#slider-d\">BUSINESS INDUSTRY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#content4-8\">ABOUT US</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html#contacts3-10\">CONTACT US</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_anchor": "menu-1"
