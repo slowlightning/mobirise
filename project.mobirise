@@ -310,7 +310,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "4",
-            "columns": "5",
+            "columns": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
             "parallax": false,
@@ -344,8 +344,8 @@
               "size": 0
             }
           },
-          "title1": "",
-          "caption1": "",
+          "title1": "Mission",
+          "caption1": "To provide excellent structural engineering solutions <b>BEYOND</b> minimum code requirements to our clients by delivering structures that are safe, economical and functionally elegant.\n<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -364,8 +364,8 @@
               "size": 0
             }
           },
-          "title2": "Mission",
-          "caption2": "To provide excellent structural engineering solutions to our clients by delivering structures that are safe, economical, and whenever possible functionally elegant.<br><br><br><br>",
+          "title2": "Vision",
+          "caption2": "To create a <b>TRUSTWORTHY</b> organization that promotes positive culture, continuous professional development, innovation, purpose-driven career and work-life integration.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -384,8 +384,8 @@
               "size": 0
             }
           },
-          "title3": "Vision",
-          "caption3": "To create a trustworthy organization that promotes positive culture, continuous professional development, innovation, purpose-driven career and work-life integration.<br>",
+          "title3": "Core Values",
+          "caption3": "4LG ethics are based on passion and respect to our profession considering its significant role in the society, being <b>ACCOUNTABLE</b> in our actions, and treating client's satisfaction as our true accomplishment.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -404,8 +404,8 @@
               "size": 0
             }
           },
-          "title4": "Core Values",
-          "caption4": "4LG ethics are based on passion and respect to our profession considering its significant role in the society, being accountable in our actions, and\ntreating client's satisfaction as our true accomplishment.<br>",
+          "title4": "",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
